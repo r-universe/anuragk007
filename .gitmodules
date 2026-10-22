@@ -1,4 +1,8 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
+	url = https://github.com/anuragk007/anuragk007.r-universe.dev
 	branch = HEAD
+[submodule "mylib2"]
+	path = mylib2
+	url = https://github.com/AnuragK007/ts
+	subdir = mylib2
