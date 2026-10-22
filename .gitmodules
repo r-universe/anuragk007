@@ -6,3 +6,7 @@
 	path = mylib2
 	url = https://github.com/AnuragK007/ts
 	subdir = mylib2
+[submodule "ts"]
+	path = ts
+	url = https://github.com/AnuragK007/ts2
+	subdir = ts
