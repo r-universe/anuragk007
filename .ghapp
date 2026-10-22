@@ -1,0 +1,10 @@
+{
+  "id": 174158220,
+  "created_at": "2026-10-22T14:41:43.000Z",
+  "repository_selection": "selected",
+  "permissions": {
+    "metadata": "read",
+    "statuses": "write"
+  },
+  "repositories": ["anurag.r-universe.dev"]
+}
